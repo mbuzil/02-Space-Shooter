@@ -3,7 +3,7 @@ var health = 8
 
 var y_positions = [250,300,350,400,450]
 var initial_position = Vector2.ZERO
-var direction = Vector2(4,-1)
+var direction = Vector2(8,-1)
 
 var Effects = null
 onready var Explosion = load("res://Effects/Explosion.tscn")
